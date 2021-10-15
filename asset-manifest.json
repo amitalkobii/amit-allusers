@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/amit-allusers/static/css/main.11972652.chunk.css",
+    "main.js": "/amit-allusers/static/js/main.1cf1e997.chunk.js",
+    "main.js.map": "/amit-allusers/static/js/main.1cf1e997.chunk.js.map",
+    "runtime-main.js": "/amit-allusers/static/js/runtime-main.a8c0760a.js",
+    "runtime-main.js.map": "/amit-allusers/static/js/runtime-main.a8c0760a.js.map",
+    "static/js/2.335947ef.chunk.js": "/amit-allusers/static/js/2.335947ef.chunk.js",
+    "static/js/2.335947ef.chunk.js.map": "/amit-allusers/static/js/2.335947ef.chunk.js.map",
+    "index.html": "/amit-allusers/index.html",
+    "static/css/main.11972652.chunk.css.map": "/amit-allusers/static/css/main.11972652.chunk.css.map",
+    "static/js/2.335947ef.chunk.js.LICENSE.txt": "/amit-allusers/static/js/2.335947ef.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/amit-allusers/static/media/background.d20e8779.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8c0760a.js",
+    "static/js/2.335947ef.chunk.js",
+    "static/css/main.11972652.chunk.css",
+    "static/js/main.1cf1e997.chunk.js"
+  ]
+}
